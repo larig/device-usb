@@ -1,5 +1,7 @@
 Revision history for Device-USB
 
+0.361  2013/10/24
+        Updated packaging.
 0.35   2010/07/21
         Re-examined typecasting patch from release 0.32, thanks to a bug report
         from Magnus Sulland. Some of the wrong void* parameters were changed to
